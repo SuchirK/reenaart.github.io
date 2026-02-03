@@ -19,5 +19,5 @@ jobs:
       - name: Deploy 🚀
         uses: jamesives/github-pages-deploy-action@v4
         with:
-          folder: dist # This is the folder Vite creates after 'npm run build'
+          folder: dist # This is the folder Vite creates after 'npm run build's
           branch: main
